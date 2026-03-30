@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["J42UKKQHBH.com.vanisseldyk.Endoscope-Assistant"],
+        "appIDs": ["8U9Z6M7BP8.com.vanisseldyk.Endoscope-Assistant"],
         "components": [{ "/": "/*" }]
       }
     ]
