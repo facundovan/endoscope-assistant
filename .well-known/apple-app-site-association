@@ -2,10 +2,8 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["8U9Z6M7BP8.com.facundovan.endoscopeassistant"],
-        "components": [
-          { "/": "/*" }
-        ]
+        "appIDs": ["J42UKKQHBH.com.vanisseldyk.Endoscope-Assistant"],
+        "components": [{ "/": "/*" }]
       }
     ]
   }
